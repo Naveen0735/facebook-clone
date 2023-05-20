@@ -94,6 +94,8 @@ p, body{
 }
 .footer-div{
     padding-top: 50px;
+    display: flex;
+    justify-content: center;
 }
 .footer{
     max-width: 980px;
